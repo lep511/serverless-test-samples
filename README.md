@@ -11,7 +11,7 @@
 # Serverless Test Samples
 
 AWS guidance and examples for testing serverless and event driven applications.
-
+--------------------------
 
 # Getting Started
 We recommend reviewing the companion website for this repository: [Serverlessland - Testing Serverless Applications](https://serverlessland.com/testing). 
